@@ -1,0 +1,16 @@
+sampling_station	region	human_impact
+palermo_pristine_arenella	Palermo	Pristine
+palermo_pristine_eleuterio	Palermo	Pristine
+castellammare_impacted	Castellammare	Impacted
+palermo_pristine_eleuterio	Palermo	Pristine
+castellammare_impacted	Castellammare	Impacted
+castellammare_pristine	Castellammare	Pristine
+castellammare_pristine	Castellammare	Pristine
+castellammare_impacted	Castellammare	Impacted
+palermo_pristine_arenella	Palermo	Pristine
+palermo_pristine_arenella	Palermo	Pristine
+palermo_impacted	Palermo	Impacted
+palermo_impacted	Palermo	Impacted
+palermo_pristine_eleuterio	Palermo	Pristine
+palermo_impacted	Palermo	Impacted
+castellammare_pristine	Castellammare	Pristine

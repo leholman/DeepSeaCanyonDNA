@@ -1,0 +1,32 @@
+Supergroup	Numb
+Alvaeolata	1
+Archaeplastida	202
+Bacteria	56
+Eukaryota	391
+Fungi	269
+Metazoa	611
+Rhizaria	3
+Unassigned	16165
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
